@@ -1,0 +1,9 @@
+{
+"name":"Sol Soa",
+  "symbol":"$SOA",
+  "description":"Iconic SOLANA SOA",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/solo/main/455.jpg",
+  "websites":[{"label":"Website","url":"https://soa.com"}],
+  "socials":[{"url":"https://x.com/soa","type":"soa"},
+  {"url":"https://t.me/soa","type":"telegram"}]
+}
